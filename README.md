@@ -1,6 +1,5 @@
 
-
-## 🟦 STAR Interview Presentation: Customer Shopping Behavior Analysis
+## Customer Shopping Behavior Analysis
 
 ### ⭐ Situation  
 A retail dataset containing 3,900 customer transactions across multiple product categories was analyzed to uncover behavioral patterns, segment customers, and evaluate the impact of discounts and subscriptions. The objective was to generate actionable insights that could guide marketing, product positioning, and customer retention strategies.
